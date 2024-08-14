@@ -10,6 +10,5 @@ bathing, the customer leaves and he is considered to be content with the service
 tomer gets out of the bath, you have to clean the bath and refill it with clean water to make it 
 ready for the next customer.  
 
-The catch is that you can only keep the business running if you have a maximum of 2 angry cus
-tomers. A customer is considered angry when their patience runs out while waiting in the queue, 
+The catch is that you can only keep the business running if you have a maximum of 2 angry customers. A customer is considered angry when their patience runs out while waiting in the queue, 
 causing them to leave without getting a bath. 
